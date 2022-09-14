@@ -1,0 +1,50 @@
+body {
+   background-color: black ; 
+   text-align: center;
+}
+
+header h1 {
+    font-family: verdana;
+    font-family: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.link h4 a {
+ color: aquamarine;
+ font-size: 16px;
+}
+
+.info h1  {
+    color: white;
+    font-size: 42px;
+    font-weight: 300;
+    font-family: verdana;
+}
+
+.info p {
+    color: gray;
+    font-size: 21px;
+    font-family: verdana;
+}
+
+.travel_guide {
+    padding: 2em;
+}
+
+.coming_soon h2 {
+    color: white;
+}
+
+.coming_soon p{
+color: white;
+font-size: 40px;
+font-family: verdana;
+
+}
+
+.copyright {
+    color: gray;
+    text-align: right;
+}
